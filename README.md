@@ -1,4 +1,4 @@
-### Hi there 👋
+## 김민서 / Gemma-Kim
 
 <!--
 **gemma-Kim/gemma-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
