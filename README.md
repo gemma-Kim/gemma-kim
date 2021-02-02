@@ -1,8 +1,9 @@
-##### 김민서 / Gemma-Kim 👩🏻‍💻🧡
+#### 김민서 / Gemma-Kim 👩🏻‍💻🧡
 
-##### 📝 Python, JS, Django, Node.js, MySQL, MongoDB, AWS etc
+##### 📝 Python, JavaScript, Django, Node.js, MySQL, MongoDB, AWS etc
 
 ##### Love to Travel 🌏 & Algorithm 🧩
+
 
 <!--
 **gemma-Kim/gemma-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
