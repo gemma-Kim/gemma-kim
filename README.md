@@ -1,6 +1,6 @@
 ##### 김민서 / Gemma-Kim 👩🏻‍💻🧡
 
-##### Python, JS, Django, Node.js, MySQL, MongoDB, AWS etc
+##### 📝 Python, JS, Django, Node.js, MySQL, MongoDB, AWS etc
 
 ##### Love to Travel 🌏 & Algorithm 🧩
 
