@@ -1,4 +1,4 @@
-#### 김민서 / Gemma-Kim 👩🏻‍💻🤎🇰🇷
+#### 김민서 / Gemma-Kim 👩🏻‍💻 🤎 🇰🇷
 
 ##### 📝 Python, JavaScript, Django, Node.js, MySQL, MongoDB, AWS etc
 
