@@ -24,6 +24,7 @@ My Stacks
 ---
 
 <p align="center">
+<img alt="Html" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img alt="Html" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=Typescript&logoColor=white"/> 
 <img alt="Html" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
 <img alt="Html" src ="https://img.shields.io/badge/Nestjs-E0234E.svg?&style=flat-square&logo=Nestjs&logoColor=white"/> 
@@ -51,15 +52,6 @@ Pages & Contact
 <p align="center">
  <a href="https://github.com/gemma-Kim">
   <img alt="Html" src ="https://img.shields.io/badge/github-181717.svg?&style=flat-square&logo=github&logoColor=white"/> 
- </a>
- <a href="https://morethantodayfor.tistory.com/">
-  <img alt="Html" src ="https://img.shields.io/badge/tistory-FFCD00.svg?&style=flat-square&logo=Tumblr&logoColor=white"/> 
- </a>
- <a href="https://medium.com/@gemma-kim">
-  <img alt="Html" src ="https://img.shields.io/badge/Medium-E4405F.svg?&style=flat-square&logo=Medium&logoColor=white"/> 
- </a>
- <a href="https://velog.io/@tiiranocode">
-  <img alt="Html" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=flat-square&logo=Velog&logoColor=white"/> 
  </a>
  <a href="https://www.linkedin.com/in/minseo-kim-944704188/">
   <img alt="Html" src ="https://img.shields.io/badge/linkedIn-0A66C2.svg?&style=flat-square&logo=linkedIn&logoColor=white"/> 
