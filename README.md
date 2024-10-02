@@ -1,28 +1,18 @@
 <div align="center">
- 
+
  
 About me
- ---
-Backend Engineer 👩🏻‍💻 
-<br>
-I love building textured software with Test code 💞
-
-<br>
-
-Stars
 ---
-<br>
-
- 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gemma-Kim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gemma-Kim&theme/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
+<p> 
+Backend Engineer 👩🏻‍💻 
+ <br>
+I love building textured software with Test code 💞
+</p>
 
 <br>
 
 My Stacks
 ---
-
 <p align="center">
 <img alt="Html" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img alt="Html" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=Typescript&logoColor=white"/> 
@@ -57,5 +47,11 @@ Pages & Contact
   <img alt="Html" src ="https://img.shields.io/badge/linkedIn-0A66C2.svg?&style=flat-square&logo=linkedIn&logoColor=white"/> 
  </a>
 </p>
- 
+<br>
+
+<!--Stars
+---
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gemma-Kim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gemma-Kim&theme/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+ -->
 </div>
